@@ -1,0 +1,7 @@
+streamlit
+requests
+sqlite3-binary
+langchain
+langchain-google-genai
+langchain-core
+google-generativeai
