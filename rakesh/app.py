@@ -44,7 +44,7 @@ def get_base64_image(image_path):
     return encoded_string
 
 # Path to the image file
-image_path = r"C:\Users\lsiva\Downloads\ragg\11f105bd12788fd5a72febe7585fecab.jpg"
+image_path = r"11f105bd12788fd5a72febe7585fecab.jpg"
 encoded_image = get_base64_image(image_path)
 
 # # CSS for the background image and styling
